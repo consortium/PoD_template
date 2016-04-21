@@ -32,13 +32,13 @@ LPI: 106
 
 ## Design
 
-See sample PDF cover:
+See sample PDF cover: 
 
-See sample PDF book-block:
+See sample PDF book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.pdf
 
-InDesign file and for cover:
+InDesign file and for cover: https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/Indesign-260115/layout/9781906496647-Perfect.indd
 
-InDesign file and for book-block:
+InDesign file and for book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.idml
 
 ### Book-block
 
