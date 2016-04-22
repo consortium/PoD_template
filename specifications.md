@@ -36,7 +36,7 @@ See sample PDF cover: https://github.com/consortium/PoD_template/blob/master/ori
 
 See sample PDF book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.pdf
 
-InDesign file and for cover: https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/Indesign-260115/layout/9781906496647-Perfect.indd
+InDesign file and for cover: https://github.com/consortium/PoD_template/tree/master/original_base_resources/final-covers/9781906496647-cover-indesign
 
 InDesign file and for book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.idml
 
@@ -106,4 +106,6 @@ Picture styles: a. Fit to body text width. b. fit to edge and bleed top (or bott
 
 Specifications can be supplied if needed, but I am assuming these get made manually.
 
-Cover PDF example as required by Lightningsource PoD printers:
+Covers need to have closed source fonts 'Gravur' and 'HISTORY' replaced with open fonts and the cover needs setting in Scribus.
+
+Cover PDF example as required by Lightningsource PoD printers: see above
