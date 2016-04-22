@@ -32,7 +32,7 @@ LPI: 106
 
 ## Design
 
-See sample PDF cover: 
+See sample PDF cover: https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/9781906496647-Perfect_v4.pdf
 
 See sample PDF book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.pdf
 
@@ -80,7 +80,7 @@ A version of H2, 3, 4 as full caps.
 
 Footnotes list: Title 'Footnotes'; header 1; hr before header 1; Gentium basic regular; 9pt font; 10.8 leading; 6mm indent; arabic numbering.
 
-Footnote lists:
+Footnote lists: we need three options for footnote lists. A. All footnotes go at the back of book (sections and footnote restart numbering allowed). B. At end of chapters or sections. C. As page notes.
 
 Footnote numbers in body text: 16 pt, superscript
 
