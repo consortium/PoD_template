@@ -40,6 +40,8 @@ InDesign file and for cover: https://github.com/consortium/PoD_template/blob/mas
 
 InDesign file and for book-block: https://github.com/consortium/PoD_template/blob/master/original_base_resources/Chris_Kraus_indesign_files/Chris_Kraus_proof_v19.idml
 
+Lightningsourc cover template as PDF and INDD: PDF https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/cover_templates/9781906496647-Perfect.pdf INDD https://github.com/consortium/PoD_template/blob/master/original_base_resources/final-covers/cover_templates/9781906496647-Perfect.indd
+
 ### Book-block
 
 Page dimension 203 x 127 mm
