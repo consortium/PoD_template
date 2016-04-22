@@ -1,0 +1,140 @@
+%!Adobe-FontList 1.16
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GentiumBasic-Bold
+FamilyName:Gentium Basic
+StyleName:Bold
+FullName:Gentium Basic Bold
+MenuName:Gentium Basic
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Raquel\Documents\INDD\Kraus\9781906496647-Perfect_v4 Folder\Document fonts\GenBasB.ttf
+DataFormat:sfntData
+FileLength:271648
+FileModTime:1207137668
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gentium Basic Bold
+NameArray:0,Mac,4,Gentium Basic Bold
+NameArray:0,Win,1,Gentium Basic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GentiumBasic-Italic
+FamilyName:Gentium Basic
+StyleName:Italic
+FullName:Gentium Basic Italic
+MenuName:Gentium Basic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Raquel\Documents\INDD\Kraus\9781906496647-Perfect_v4 Folder\Document fonts\GenBasI.ttf
+DataFormat:sfntData
+FileLength:263504
+FileModTime:1207137668
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,Gentium Basic Italic
+NameArray:0,Mac,4,Gentium Basic Italic
+NameArray:0,Win,1,Gentium Basic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GentiumBasic
+FamilyName:Gentium Basic
+StyleName:Regular
+FullName:Gentium Basic
+MenuName:Gentium Basic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Raquel\Documents\INDD\Kraus\9781906496647-Perfect_v4 Folder\Document fonts\GenBasR.ttf
+DataFormat:sfntData
+FileLength:269048
+FileModTime:1207137668
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Gentium Basic
+NameArray:0,Mac,4,Gentium Basic
+NameArray:0,Win,1,Gentium Basic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GravurCondensed-Regular
+FamilyName:GravurCondensed-Regular
+StyleName:Regular
+FullName:GravurCondensed-Regular 
+MenuName:GravurCondensed-Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Raquel\Documents\INDD\Kraus\9781906496647-Perfect_v4 Folder\Document fonts\GravurCondensed-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:35460
+FileModTime:1308479597
+WeightClass:400
+WidthClass:3
+AngleClass:0
+NameArray:0,Mac,4,GravurCondensed-Regular 
+NameArray:0,Win,1,GravurCondensed-Regular
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:History-Four
+FamilyName:History
+StyleName:04
+FullName:History 04
+MenuName:History 04
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Raquel\Documents\INDD\Kraus\9781906496647-Perfect_v4 Folder\Document fonts\History Four.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:44788
+FileModTime:1220375606
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,History 04
+NameArray:0,Win,1,History 04
+NameArray:0,Win,16,History
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:History-Two
+FamilyName:History
+StyleName:02
+FullName:History 02
+MenuName:History 02
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Raquel\Documents\INDD\Kraus\9781906496647-Perfect_v4 Folder\Document fonts\History Two.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:45732
+FileModTime:1220375622
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,History 02
+NameArray:0,Win,1,History 02
+NameArray:0,Win,16,History
+%EndFont
+
